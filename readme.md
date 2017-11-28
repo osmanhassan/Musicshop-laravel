@@ -30,13 +30,19 @@ Extarct the zip on that directory if you download the zip file.
 Open the command line on that directory and run the command: composer install. It will install all the dependencies of this project in your machine. It may take few minutes depending on your internet speed. 
 
 <p>Step 5:</p>
-In the command line run the command: php artisan migrate
+
+Run mysql server and go to phpmyadmin. Create a new database named laravel and set the collation utf8_unicode_ci.
 
 <p>Step 6:</p>
-In the command line run the command: php artisan serve --port your free port number
+
+In the command line run the command: php artisan migrate
 
 <p>Step 7:</p>
-Run mysql server and go to your browser. For customer side write in the url: localhost:port you assigned previously/musicshop. For Admin side write in the url: localhost:port you assigned previously/login.intial username is:osman and password is:Aa*111. You can change it later by adding a new admin from the menu.
+
+In the command line run the command: php artisan serve --port your free port number
+
+<p>Step 8:</p>
+Run mysql server and go to your browser. For customer side write in the url: localhost:port you assigned previously/musicshop. For Admin side write in the url: localhost:port you assigned previously/login. Intial username is:osman and password is:Aa*111 . You can change it later by adding a new admin from the menu.
 
 ## Author
 
