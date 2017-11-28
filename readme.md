@@ -35,17 +35,16 @@ In the command line run the command: php artisan migrate
 <p>Step 6:</p>
 In the command line run the command: php artisan serve --port your free port number
 
-<p>Step 6:</p>
+<p>Step 7:</p>
 Run mysql server and go to your browser. For customer side write in the url: localhost:port you assigned previously/musicshop. For Admin side write in the url: localhost:port you assigned previously/login.intial username is:osman and password is:Aa*111. You can change it later by adding a new admin from the menu.
 
-## Contributing
+## Author
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
+Hassan md. Osman.
+Email:hassanmdosman@gmail.com
 
-## Security Vulnerabilities
+## Issues
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
+You are welcome to inform in the issue section or via email.
 
-## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
